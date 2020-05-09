@@ -1,0 +1,3 @@
+count symbols = 195
+count symbols without whitespace = 168
+count words = 25
